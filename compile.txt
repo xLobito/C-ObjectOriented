@@ -1,0 +1,1 @@
+gcc-6 FullTest.c String.c Int16.c Int32.c Int64.c UInt16.c UInt32.c UInt64.c Char.c Float.c Double.c File.c List.c Stack.c Array.c Conversion.c GC_Class.c Exception.c KeyInfo.c Console.c ObjectPrueba.c -g -std=gnu11 -lunwind -lgc -O1 -lelf -fms-extensions -fsanitize=undefined -fsanitize=null -fsanitize=bounds
